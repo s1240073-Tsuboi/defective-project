@@ -1,3 +1,3 @@
 def take_until_zero(str)
-  str
+  while str.i=0 
 end
